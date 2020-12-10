@@ -1,0 +1,20 @@
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.dll
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.pdb
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.dll
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\bin\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\DMServiceLibary\obj\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\DMServiceLibary\bin\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\DMServiceLibary\bin\Debug\DMServiceLibrary.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\DMServiceLibary\obj\Debug\DMServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\DMServiceLibary\obj\Debug\DMServiceLibrary.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\DMServiceLibary\obj\Debug\DMServiceLibrary.pdb

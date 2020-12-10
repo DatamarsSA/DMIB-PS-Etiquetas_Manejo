@@ -1,0 +1,30 @@
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\STXControl.dll
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\STXControl.pdb
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\DMServiceLibrary.dll
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\ProductionData.dll
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\DMServiceLibrary.pdb
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\ProductionData.pdb
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.csprojResolveAssemblyReference.cache
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXControl.resources
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputQuickTag.resources
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Cattle.resources
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Aims.resources
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Sheep.resources
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.csproj.GenerateResource.Cache
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.dll
+C:\Users\Tuso\Desktop\LISTADOS PARA MARCO\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.pdb
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\STXControl.dll
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\STXControl.pdb
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\DMServiceLibrary.dll
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\ProductionData.dll
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\DMServiceLibrary.pdb
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\bin\Release\ProductionData.pdb
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXControl.resources
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputQuickTag.resources
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Cattle.resources
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Aims.resources
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.STXOutputs.STXQuickTag_Sheep.resources
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.dll
+C:\Users\Pablo\Desktop\FinishingSW-master (3)\FinishingSW-master\STXControl\STXControl\obj\Release\STXControl.pdb

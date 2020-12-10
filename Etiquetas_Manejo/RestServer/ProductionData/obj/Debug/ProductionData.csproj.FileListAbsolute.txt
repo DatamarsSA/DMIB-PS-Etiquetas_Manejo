@@ -1,0 +1,25 @@
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.dll
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.pdb
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.csprojResolveAssemblyReference.cache
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.dll
+C:\Programas FELIXCAN\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\DATAMARS\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\ProductionData\bin\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\LASER\Finishing SW\FinishingSW-master\RestServer\ProductionData\obj\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\ProductionData\bin\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\ProductionData\bin\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\ProductionData\obj\Debug\ProductionData.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\ProductionData\obj\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\MICROCHIP\DM\Embolsadora\ACTUAL CON OS\ProductionData\obj\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\PID Project\Embolsadora 6.2\Embolsadora5\ProductionData\bin\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\PID Project\Embolsadora 6.2\Embolsadora5\ProductionData\bin\Debug\ProductionData.pdb
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\PID Project\Embolsadora 6.2\Embolsadora5\ProductionData\obj\Debug\ProductionData.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\PID Project\Embolsadora 6.2\Embolsadora5\ProductionData\obj\Debug\ProductionData.dll
+C:\Users\Pablo\OneDrive - Datamars SA\Programas FELIXCAN\PID Project\Embolsadora 6.2\Embolsadora5\ProductionData\obj\Debug\ProductionData.pdb
