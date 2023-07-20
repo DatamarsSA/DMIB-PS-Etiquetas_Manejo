@@ -141,6 +141,7 @@ Public Class Form1
 
     Public Sub Crear_Token()
 
+        System.Net.ServicePointManager.SecurityProtocol = Net.SecurityProtocolType.Tls12
         Dim client As New RestClient("https://login.microsoftonline.com/5d7ef17f-affc-45f4-a3ce-3379dfb2c5ef/oauth2/token")
         Dim request As New RestRequest(Method.POST)
         request.AddHeader("Content-Type", "application/x-www-form-urlencoded")
@@ -179,6 +180,9 @@ Public Class Form1
     Private Sub txt_OrderPS_KeyDown(sender As Object, e As KeyEventArgs) Handles txt_OrderPS.KeyDown
 
         If e.KeyData = Keys.KeyCode.Enter Then
+            If ctes.Equipo.ToUpper.Contains("LECTORES") Then
+                ctes.Tipo = "LECTORES"
+            End If
             Cursor = Cursors.WaitCursor
             Crear_Token()
             GetOrderPS(txt_OrderPS.Text)

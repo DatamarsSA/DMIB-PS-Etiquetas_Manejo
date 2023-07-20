@@ -54,6 +54,27 @@ Public Class MyRestServer
                     Else
                         MsgBox("Equipo no habilitado para pedidos de ITACA")
                     End If
+                Case "DMESP_ITACA_SERIE"
+                    If ctes.Equipo.ToUpper.Contains("LASER") Then
+                        ctes.Tipo = "ITACA"
+                        RaiseEvent receivedOrder()
+                    Else
+                        MsgBox("Equipo no habilitado para pedidos de ITACA")
+                    End If
+                Case "DMESP_ITACA_SIN_SERIE"
+                    If ctes.Equipo.ToUpper.Contains("LASER") Then
+                        ctes.Tipo = "ITACA"
+                        RaiseEvent receivedOrder()
+                    Else
+                        MsgBox("Equipo no habilitado para pedidos de ITACA")
+                    End If
+                Case "DMESP_ITACA_SERIE_DOBLE"
+                    If ctes.Equipo.ToUpper.Contains("LASER") Then
+                        ctes.Tipo = "ITACA"
+                        RaiseEvent receivedOrder()
+                    Else
+                        MsgBox("Equipo no habilitado para pedidos de ITACA")
+                    End If
                 Case "DMESP_LECTORES"
                     If ctes.Equipo.ToUpper.Contains("LECTORES") Then
                         ctes.Tipo = "LECTORES"
