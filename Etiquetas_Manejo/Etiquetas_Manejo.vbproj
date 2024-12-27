@@ -61,6 +61,10 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
       <HintPath>.\Interop.BarTender.dll</HintPath>
     </Reference>
+    <Reference Include="MstLabel, Version=4.18.6.15, Culture=neutral, PublicKeyToken=8ee81cea60080003, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MstLabel.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
@@ -134,9 +138,13 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Pedidos_OS.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Pedidos_OS.vb">
+      <DependentUpon>Pedidos_OS.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Production_Item.vb" />
     <Compile Include="ProductionOrder.vb" />
     <Compile Include="RestServer\MyRestServer.vb" />
+    <Compile Include="TagPrintingSchema.vb" />
     <Compile Include="Token.vb" />
   </ItemGroup>
   <ItemGroup>

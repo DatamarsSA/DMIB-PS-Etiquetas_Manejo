@@ -47,14 +47,14 @@ Partial Class Form1
         Me.StatusStrip2.Location = New System.Drawing.Point(0, 196)
         Me.StatusStrip2.Name = "StatusStrip2"
         Me.StatusStrip2.Padding = New System.Windows.Forms.Padding(1, 0, 19, 0)
-        Me.StatusStrip2.Size = New System.Drawing.Size(460, 22)
+        Me.StatusStrip2.Size = New System.Drawing.Size(539, 22)
         Me.StatusStrip2.TabIndex = 1
         Me.StatusStrip2.Text = "StatusStrip2"
         '
         'lblPSStatus
         '
         Me.lblPSStatus.Name = "lblPSStatus"
-        Me.lblPSStatus.Size = New System.Drawing.Size(119, 17)
+        Me.lblPSStatus.Size = New System.Drawing.Size(120, 17)
         Me.lblPSStatus.Text = "ToolStripStatusLabel1"
         '
         'cmbImpresora
@@ -63,7 +63,7 @@ Partial Class Form1
         Me.cmbImpresora.Image = CType(resources.GetObject("cmbImpresora.Image"), System.Drawing.Image)
         Me.cmbImpresora.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.cmbImpresora.Name = "cmbImpresora"
-        Me.cmbImpresora.Size = New System.Drawing.Size(165, 20)
+        Me.cmbImpresora.Size = New System.Drawing.Size(166, 20)
         Me.cmbImpresora.Text = "ToolStripDropDownButton1"
         '
         'Label1
@@ -129,8 +129,9 @@ Partial Class Form1
         'btn_imprimir
         '
         Me.btn_imprimir.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.btn_imprimir.Enabled = False
         Me.btn_imprimir.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btn_imprimir.Location = New System.Drawing.Point(283, 157)
+        Me.btn_imprimir.Location = New System.Drawing.Point(362, 157)
         Me.btn_imprimir.Name = "btn_imprimir"
         Me.btn_imprimir.Size = New System.Drawing.Size(165, 36)
         Me.btn_imprimir.TabIndex = 8
@@ -189,7 +190,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 19.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(460, 218)
+        Me.ClientSize = New System.Drawing.Size(539, 218)
         Me.Controls.Add(Me.lb_cliente)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.lb_ganadero)

@@ -152,7 +152,8 @@ Public Class MyRestServer
 
         IO.File.WriteAllText(archivo, json)
 
-        Dim client As New DMServiceLibrary.RestClient("http://192.168.14.13:11001/production/v1/produced_orders", DMServiceLibrary.RestClient.HttpVerb.POST, json)
+        'Dim client As New DMServiceLibrary.RestClient("http://192.168.14.13:11001/production/v1/produced_orders", DMServiceLibrary.RestClient.HttpVerb.POST, json)
+        Dim client As New DMServiceLibrary.RestClient("http://10.45.1.2:11001/production/v1/produced_orders", DMServiceLibrary.RestClient.HttpVerb.POST, json)
         client.setCredentials("bm9ydGhlcm4uaXJlbGFuZDo5OGFzZDg5Z2d4cmV6MDkyNDIz")
 
         Try
